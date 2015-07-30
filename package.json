@@ -1,6 +1,6 @@
 {
   "name": "random-measure",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Returns randomized measure data in between range scopes you given",
   "license": "MIT",
   "repository": "ragingwind/random-measure",
